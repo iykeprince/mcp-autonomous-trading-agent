@@ -1,0 +1,9 @@
+fastapi
+mcp
+massive
+openai
+openai-agents
+pydantic
+python-dotenv
+requests
+uvicorn
